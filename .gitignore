@@ -1,0 +1,6 @@
+*.tfvars
+*.terraform
+*.tfstate
+*.lock.hcl
+*.tfstate.backup
+schema.yaml
